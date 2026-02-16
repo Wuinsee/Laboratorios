@@ -2,52 +2,68 @@
 using System; // Correct usage of the System namespace
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
-class Program 
+using System;
+
+class NaveEspacial
 {
-    static void Main(string[] args) 
+    static void Main()
     {
-        //Ejercicio 1 : Registro de Nave Espacial
+        // Parte 1: Datos básicos
+        string nombreNave = "GalaxyX";
+        int cargaMaxima = 5000;
+        double combustibleActual = 75.5;
+        bool escudoActivo = false;
 
-        // Saludo inicial
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Nave: " + nombreNave);
+        Console.WriteLine("Carga máxima permitida: " + cargaMaxima);
+        Console.WriteLine("Combustible disponible: " + combustibleActual + "%");
+        Console.WriteLine("¿Escudo activado? " + escudoActivo);
 
-        // Entrada de usuario
-        Console.WriteLine("¿Cómo te llamas?");
-        string nombre = Console.ReadLine();
+        // Parte 2: Conversión automática
+        byte modulos = 10;
+        int totalModulos = modulos;
+        double calculoFinal = totalModulos;
 
-        // Salida de datos
-        Console.WriteLine("Hola, " + nombre + " ¡Bienvenido a C#!");
+        Console.WriteLine("Total de módulos instalados: " + calculoFinal);
 
-        string modelo;
-        int carga;
-        double combustible;
-        bool motorDeSaltoActivo;
+        // Parte 3: Conversión explícita
+        double energiaTotal = 456.89;
+        int energiaEntera = (int)energiaTotal;
 
-        // Entrada de datos adicionales
-        Console.Write("Modelo de la nave: ");
-        modelo = Console.ReadLine();
+        Console.WriteLine("Energía total: " + energiaTotal);
+        Console.WriteLine("Energía aproximada: " + energiaEntera);
 
-        Console.Write("Capacidad de carga: ");
-        carga = int.Parse(Console.ReadLine());
+        // Parte 4: Entrada de usuario
+        Console.Write("Ingrese la velocidad actual: ");
+        string entradaVelocidad = Console.ReadLine();
 
-        Console.Write("Nivel de combustible: ");
-        combustible = double.Parse(Console.ReadLine());
+        int velocidad = int.Parse(entradaVelocidad);
+        velocidad += 20;
 
-        Console.Write("¿Motor de salto activo? (true/false): ");
-        motorDeSaltoActivo = bool.Parse(Console.ReadLine());
+        Console.WriteLine("Velocidad ajustada: " + velocidad);
 
-        // Mostrar datos ingresados
-        Console.WriteLine($"Modelo de la nave: {modelo}, Capacidad de carga: {carga}, Nivel de combustible: {combustible}, Motor de salto activo: {motorDeSaltoActivo}");
-    }
-}
+        // Parte 5: Conversión desde texto
+        string estadoMotor = "false";
+        bool motorEncendido = Convert.ToBoolean(estadoMotor);
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        //Ejercicio 2: Expansión de Memoria (Conversión Implícita)
+        string alturaTexto = "1200.75";
+        double altura = Convert.ToDouble(alturaTexto);
 
-        // Declaración de variables
-        
+        Console.WriteLine("Motor encendido: " + motorEncendido);
+        Console.WriteLine("Altura actual: " + altura);
+
+        // Parte 6: Formato de números
+        double distancia = 123456.789;
+        Console.WriteLine("Distancia normal: " + distancia.ToString());
+        Console.WriteLine("Distancia con formato: " + distancia.ToString("N2"));
+
+        // Parte 7: Cálculo con impuesto
+        Console.Write("Ingrese el precio del combustible: ");
+        double precioCombustible = Convert.ToDouble(Console.ReadLine());
+
+        double impuesto = precioCombustible * 0.15;
+        double totalPagar = precioCombustible + impuesto;
+
+        Console.WriteLine("Total a pagar: " + totalPagar);
     }
 }

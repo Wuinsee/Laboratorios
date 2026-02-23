@@ -1,0 +1,14 @@
+C:\Users\Wuin See Raul\source\repos\L5_WS 1032326\L5_WS 1032326\bin\Debug\net10.0\L5_WS 1032326.exe
+C:\Users\Wuin See Raul\source\repos\L5_WS 1032326\L5_WS 1032326\bin\Debug\net10.0\L5_WS 1032326.deps.json
+C:\Users\Wuin See Raul\source\repos\L5_WS 1032326\L5_WS 1032326\bin\Debug\net10.0\L5_WS 1032326.runtimeconfig.json
+C:\Users\Wuin See Raul\source\repos\L5_WS 1032326\L5_WS 1032326\bin\Debug\net10.0\L5_WS 1032326.dll
+C:\Users\Wuin See Raul\source\repos\L5_WS 1032326\L5_WS 1032326\bin\Debug\net10.0\L5_WS 1032326.pdb
+C:\Users\Wuin See Raul\source\repos\L5_WS 1032326\L5_WS 1032326\obj\Debug\net10.0\L5_WS 1032326.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wuin See Raul\source\repos\L5_WS 1032326\L5_WS 1032326\obj\Debug\net10.0\L5_WS 1032326.AssemblyInfoInputs.cache
+C:\Users\Wuin See Raul\source\repos\L5_WS 1032326\L5_WS 1032326\obj\Debug\net10.0\L5_WS 1032326.AssemblyInfo.cs
+C:\Users\Wuin See Raul\source\repos\L5_WS 1032326\L5_WS 1032326\obj\Debug\net10.0\L5_WS 1032326.csproj.CoreCompileInputs.cache
+C:\Users\Wuin See Raul\source\repos\L5_WS 1032326\L5_WS 1032326\obj\Debug\net10.0\L5_WS 1032326.dll
+C:\Users\Wuin See Raul\source\repos\L5_WS 1032326\L5_WS 1032326\obj\Debug\net10.0\refint\L5_WS 1032326.dll
+C:\Users\Wuin See Raul\source\repos\L5_WS 1032326\L5_WS 1032326\obj\Debug\net10.0\L5_WS 1032326.pdb
+C:\Users\Wuin See Raul\source\repos\L5_WS 1032326\L5_WS 1032326\obj\Debug\net10.0\L5_WS 1032326.genruntimeconfig.cache
+C:\Users\Wuin See Raul\source\repos\L5_WS 1032326\L5_WS 1032326\obj\Debug\net10.0\ref\L5_WS 1032326.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "L5_WS 1032326/1.0.0": {
+        "runtime": {
+          "L5_WS 1032326.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L5_WS 1032326/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

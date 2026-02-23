@@ -1,0 +1,14 @@
+C:\Users\Wuin See Raul\source\repos\lab 5\lab 5\obj\Debug\net10.0\lab 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wuin See Raul\source\repos\lab 5\lab 5\obj\Debug\net10.0\lab 5.AssemblyInfoInputs.cache
+C:\Users\Wuin See Raul\source\repos\lab 5\lab 5\obj\Debug\net10.0\lab 5.AssemblyInfo.cs
+C:\Users\Wuin See Raul\source\repos\lab 5\lab 5\obj\Debug\net10.0\lab 5.csproj.CoreCompileInputs.cache
+C:\Users\Wuin See Raul\source\repos\Lab 5\Lab 5\bin\Debug\net10.0\Lab 5.exe
+C:\Users\Wuin See Raul\source\repos\Lab 5\Lab 5\bin\Debug\net10.0\Lab 5.deps.json
+C:\Users\Wuin See Raul\source\repos\Lab 5\Lab 5\bin\Debug\net10.0\Lab 5.runtimeconfig.json
+C:\Users\Wuin See Raul\source\repos\Lab 5\Lab 5\bin\Debug\net10.0\Lab 5.dll
+C:\Users\Wuin See Raul\source\repos\Lab 5\Lab 5\bin\Debug\net10.0\Lab 5.pdb
+C:\Users\Wuin See Raul\source\repos\Lab 5\Lab 5\obj\Debug\net10.0\Lab 5.dll
+C:\Users\Wuin See Raul\source\repos\Lab 5\Lab 5\obj\Debug\net10.0\refint\Lab 5.dll
+C:\Users\Wuin See Raul\source\repos\Lab 5\Lab 5\obj\Debug\net10.0\Lab 5.pdb
+C:\Users\Wuin See Raul\source\repos\Lab 5\Lab 5\obj\Debug\net10.0\Lab 5.genruntimeconfig.cache
+C:\Users\Wuin See Raul\source\repos\Lab 5\Lab 5\obj\Debug\net10.0\ref\Lab 5.dll

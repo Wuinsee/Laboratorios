@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "LAB12 WS 1032326/1.0.0": {
+        "runtime": {
+          "LAB12 WS 1032326.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LAB12 WS 1032326/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

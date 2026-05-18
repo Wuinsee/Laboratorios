@@ -1,0 +1,15 @@
+/Users/wnsee/Projects/LAB 15 WS 1032326/LAB 15 WS 1032326/bin/Debug/net7.0/LAB 15 WS 1032326
+/Users/wnsee/Projects/LAB 15 WS 1032326/LAB 15 WS 1032326/bin/Debug/net7.0/LAB 15 WS 1032326.deps.json
+/Users/wnsee/Projects/LAB 15 WS 1032326/LAB 15 WS 1032326/bin/Debug/net7.0/LAB 15 WS 1032326.runtimeconfig.json
+/Users/wnsee/Projects/LAB 15 WS 1032326/LAB 15 WS 1032326/bin/Debug/net7.0/LAB 15 WS 1032326.dll
+/Users/wnsee/Projects/LAB 15 WS 1032326/LAB 15 WS 1032326/bin/Debug/net7.0/LAB 15 WS 1032326.pdb
+/Users/wnsee/Projects/LAB 15 WS 1032326/LAB 15 WS 1032326/obj/Debug/net7.0/LAB 15 WS 1032326.csproj.AssemblyReference.cache
+/Users/wnsee/Projects/LAB 15 WS 1032326/LAB 15 WS 1032326/obj/Debug/net7.0/LAB 15 WS 1032326.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wnsee/Projects/LAB 15 WS 1032326/LAB 15 WS 1032326/obj/Debug/net7.0/LAB 15 WS 1032326.AssemblyInfoInputs.cache
+/Users/wnsee/Projects/LAB 15 WS 1032326/LAB 15 WS 1032326/obj/Debug/net7.0/LAB 15 WS 1032326.AssemblyInfo.cs
+/Users/wnsee/Projects/LAB 15 WS 1032326/LAB 15 WS 1032326/obj/Debug/net7.0/LAB 15 WS 1032326.csproj.CoreCompileInputs.cache
+/Users/wnsee/Projects/LAB 15 WS 1032326/LAB 15 WS 1032326/obj/Debug/net7.0/LAB 15 WS 1032326.dll
+/Users/wnsee/Projects/LAB 15 WS 1032326/LAB 15 WS 1032326/obj/Debug/net7.0/refint/LAB 15 WS 1032326.dll
+/Users/wnsee/Projects/LAB 15 WS 1032326/LAB 15 WS 1032326/obj/Debug/net7.0/LAB 15 WS 1032326.pdb
+/Users/wnsee/Projects/LAB 15 WS 1032326/LAB 15 WS 1032326/obj/Debug/net7.0/LAB 15 WS 1032326.genruntimeconfig.cache
+/Users/wnsee/Projects/LAB 15 WS 1032326/LAB 15 WS 1032326/obj/Debug/net7.0/ref/LAB 15 WS 1032326.dll
